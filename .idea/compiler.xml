@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Bus_tour_main" target="11" />
+      <module name="Problems-Bus_tour_test" target="11" />
+      <module name="Problems-Chocolate_main" target="11" />
+      <module name="Problems-Chocolate_test" target="11" />
+      <module name="Problems-Cinema_main" target="11" />
+      <module name="Problems-Cinema_test" target="11" />
+      <module name="Problems-Fill_the_matrix_by_numbers_main" target="11" />
+      <module name="Problems-Fill_the_matrix_by_numbers_test" target="11" />
+      <module name="Problems-Find_the_max_of_three_numbers_main" target="11" />
+      <module name="Problems-Find_the_max_of_three_numbers_test" target="11" />
+      <module name="Problems-Maximum_element_in_a_matrix_main" target="11" />
+      <module name="Problems-Maximum_element_in_a_matrix_test" target="11" />
+      <module name="Problems-Rotate_a_rectange_array_main" target="11" />
+      <module name="Problems-Rotate_a_rectange_array_test" target="11" />
+      <module name="Problems-Spiral_main" target="11" />
+      <module name="Problems-Spiral_test" target="11" />
+      <module name="Problems-Sum_array_elements_greater_than_a_value_main" target="11" />
+      <module name="Problems-Sum_array_elements_greater_than_a_value_test" target="11" />
+      <module name="Problems-Sum_of_neighbors_main" target="11" />
+      <module name="Problems-Sum_of_neighbors_test" target="11" />
+      <module name="Problems-Swap_the_columns_main" target="11" />
+      <module name="Problems-Swap_the_columns_test" target="11" />
+      <module name="Problems-Symmetric_matrix_main" target="11" />
+      <module name="Problems-Symmetric_matrix_test" target="11" />
+      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
+      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
+      <module name="Tic-Tac-Toe-task_main" target="11" />
+      <module name="Tic-Tac-Toe-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
